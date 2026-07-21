@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0080_000.yaml, hash: 'sha256:8ee54f3222632f5a13c5fb9ae8d46c13a78a3d8719e179aeebeda6fafb004917'}
+  - {seq: 0, filename: KR6d0080_000.yaml, hash: 'sha256:f90a58aefbebf1d0c097a7925b947e40f0b7ca5298339c6268214459dc726f88'}
   - {seq: 1, filename: KR6d0080_001.yaml, hash: 'sha256:5eccfb5d7c39121e5c974ff36b1ed17fe0548750d1117ad3c16948cc78e5a721'}
   - {seq: 2, filename: KR6d0080_002.yaml, hash: 'sha256:4819abba354faf8caf24a492da9b10ff29745f684abd18909bade59c1a9b4916'}
   - {seq: 3, filename: KR6d0080_003.yaml, hash: 'sha256:b27f48ec7256f57d1c09992c5eb23c5caa80055b7ca5f08da7c39b9c17a31f3a'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 6, filename: KR6d0080_006.yaml, hash: 'sha256:49900c4a5154af84c51c070ea82203c88b1399997cc05912c64b69e3b9baafe7'}
   - {seq: 7, filename: KR6d0080_007.yaml, hash: 'sha256:ce7d9c502374c9b544ddf225e14ebf96545949e7a7b78d95dcafb76a4194359a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0080_000.markers.yaml, hash: 'sha256:f7b5212a719ae813397d60038a39e29275259b8b31591afafdcd6fe9ac7cb1b2'}
+  - {seq: 0, role: markers, filename: assets/KR6d0080_000.markers.yaml, hash: 'sha256:3df5c65fd192afd969d4d8f9cf7ec9163ef7efa67c6233797861ebe66d8649f1'}
   - {seq: 1, role: markers, filename: assets/KR6d0080_001.markers.yaml, hash: 'sha256:00afb15770abe4b3a5a7df1816c14c3f957437468692b7a2d128efeac6024851'}
   - {seq: 2, role: markers, filename: assets/KR6d0080_002.markers.yaml, hash: 'sha256:a7e45875da4973020c95cebc51e3d0496e5e0e4b06db77db39cc6767682e40cc'}
   - {seq: 3, role: markers, filename: assets/KR6d0080_003.markers.yaml, hash: 'sha256:905cd743ff3ba1cfd7fdd0244b0cdd44046f240ece7b01b7dd11363a1150325d'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0080_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 614-A 法華大窾自敘
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0080_X_000-mulu-2
     span:
-    - front
+    - body
     - 961
     - 961
   label: No. 614-B 蓮華大窾敘
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0080_X_000-mulu-3
     span:
-    - front
+    - body
     - 1323
     - 1323
   label: No. 614-C 妙法蓮華經弘傳序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0080_X_000-mulu-4
     span:
-    - front
+    - body
     - 4933
     - 4933
   label: No. 614-D 經題
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0080_X_000-mulu-5
     span:
-    - front
+    - body
     - 9697
     - 9697
   label: 序品第一
@@ -429,7 +429,7 @@ table_of_contents:
   label: 普賢品第二十八
   type: mulu
   level: 1
-hash: sha256:f9420ce7dde095a27620884130a4c5db9b3517395dc2192fda6ee6892877e3f0
+hash: sha256:4261906487670e1f232c70d80ad2941bdcbd732c7bd4c54f9ba003d7f24f5fdc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
